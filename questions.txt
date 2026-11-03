@@ -1,0 +1,2 @@
+1. what is IndexFlatIP? why is used?
+2.what is approximate search complexity?

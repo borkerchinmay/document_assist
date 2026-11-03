@@ -1,0 +1,16 @@
+﻿# Introduction to Machine Learning
+
+Machine learning is a branch of artificial intelligence
+that enables systems to learn patterns from data.
+
+Supervised learning uses labeled examples. Classification
+predicts discrete classes, while regression predicts
+continuous numerical values.
+
+Unsupervised learning discovers patterns in unlabeled data.
+K-means is a clustering algorithm that groups observations
+according to their similarity.
+
+Overfitting occurs when a model learns the training data
+too closely and generalizes poorly to unseen data.
+Regularization can help reduce overfitting.

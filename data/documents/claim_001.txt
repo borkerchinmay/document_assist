@@ -1,0 +1,23 @@
+FICTIONAL TRAINING SAMPLE — NOT A REAL CLAIM OR CUSTOMER RECORD
+
+Claim Reference: CLM-2026-0042
+Policy Number: NS-MTR-1001
+Policyholder: Arun Mehta (fictional)
+Vehicle Registration: TN-00-AB-1234 (fictional)
+Incident Date: 15 June 2026
+Incident Location: Chennai (fictional scenario)
+Incident Type: Accidental collision
+Reported Damage: Front bumper and right headlamp
+Repair Estimate: INR 42,000
+Police Report: Not provided
+Driving Licence: Copy provided
+Vehicle Registration Certificate: Copy provided
+Claim Form: Provided
+Photographs: Two photographs provided
+Repair Invoice: Not provided; only an estimate is attached
+
+Claimant Statement:
+The policyholder states that the vehicle was involved in a collision on 15 June 2026. The vehicle was being driven by the policyholder. The claimant requests reimbursement for the estimated repair cost of INR 42,000.
+
+Training Review Note:
+This file contains only the facts listed above. Do not assume that the claim is covered or payable. Check the applicable policy wording, identify missing or ambiguous evidence, and refer the case to a human claims analyst. A police report is not stated as mandatory for every accidental collision in the supplied policy; do not infer that it is required in this case.

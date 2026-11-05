@@ -1,5 +1,5 @@
 import numpy as np
-from vector_store import VectorStore
+from src.vector_store import VectorStore
 
 store = VectorStore(3)
 

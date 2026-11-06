@@ -2,10 +2,11 @@ from pathlib import Path
 from pypdf import PdfReader
 
 SUPPORTED_EXTENSIONS = {".txt", ".pdf"}
-
+EXCLUDED_FILES = {"README.txt", "sample.txt"}
 def load_documents(directory):
 
     directory = Path(directory)
+
 
     if not directory.exists():
         raise FileNotFoundError(f"Directory not found: {directory}")
@@ -16,6 +17,9 @@ def load_documents(directory):
     documents = []
 
     for file_path in sorted(directory.iterdir()):
+        if file_path.name in EXCLUDED_FILES:
+            continue
+        
         if file_path.suffix.lower() not in SUPPORTED_EXTENSIONS:
             continue
 
@@ -68,5 +72,5 @@ def chunk_documents(documents, chunk_size = 120, overlap = 30):
                            "text": chunk_text,
                            "metadata": metadata.copy()})
 
-            return chunks
+    return chunks
         

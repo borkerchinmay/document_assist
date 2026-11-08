@@ -1,0 +1,320 @@
+[
+    
+  {
+    "question": "What is the deductible for accidental damage?",
+    "relevant_sources": ["policy_001.pdf"]
+  },
+  {
+    "question": "What does the policy cover for medical expenses?",
+    "relevant_sources": ["policy_002.pdf"]
+  },
+  {
+    "question": "What are the conditions for filing a claim?",
+    "relevant_sources": ["claim_001.txt"]
+  }
+,
+  {
+    "question": "What is overfitting in machine learning?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "Why does overfitting reduce model generalization?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "How can regularization help prevent overfitting?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What happens when a model learns training data too closely?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What is the difference between training performance and generalization?",
+    "relevant_sources": ["sample.txt"]
+  }
+  ,
+  {
+    "question": "What hospitalization expenses are covered under the health insurance policy?",
+    "relevant_sources": ["health_insurance_policy.txt"]
+  },
+  {
+    "question": "What is the minimum hospitalization duration required for coverage?",
+    "relevant_sources": ["health_insurance_policy.txt"]
+  },
+  {
+    "question": "How many days of pre-hospitalization expenses are covered?",
+    "relevant_sources": ["health_insurance_policy.txt"]
+  },
+  {
+    "question": "What is the post-hospitalization coverage period?",
+    "relevant_sources": ["health_insurance_policy.txt"]
+  },
+  {
+    "question": "What is the general waiting period for health insurance?",
+    "relevant_sources": ["health_insurance_policy.txt"]
+  },
+  {
+    "question": "Are accidental hospitalizations covered during the waiting period?",
+    "relevant_sources": ["health_insurance_policy.txt"]
+  },
+  {
+    "question": "Which medical procedures are excluded from health insurance coverage?",
+    "relevant_sources": ["health_insurance_policy.txt"]
+  },
+  {
+    "question": "What documents are required for a health insurance claim?",
+    "relevant_sources": ["health_insurance_policy.txt"]
+  },
+  {
+    "question": "How does the cashless hospitalization process work?",
+    "relevant_sources": ["health_insurance_policy.txt"]
+  },
+  {
+    "question": "Are prescribed medicines covered during hospitalization?",
+    "relevant_sources": ["health_insurance_policy.txt"]
+  },
+  {
+    "question": "What types of vehicle damage are covered under motor insurance?",
+    "relevant_sources": ["motor_insurance_policy.txt"]
+  },
+  {
+    "question": "Does motor insurance cover third-party property damage?",
+    "relevant_sources": ["motor_insurance_policy.txt"]
+  },
+  {
+    "question": "What should a policyholder do immediately after vehicle theft?",
+    "relevant_sources": ["motor_insurance_policy.txt"]
+  },
+  {
+    "question": "Is a police FIR required for a vehicle theft claim?",
+    "relevant_sources": ["motor_insurance_policy.txt"]
+  },
+  {
+    "question": "What is a compulsory deductible in motor insurance?",
+    "relevant_sources": ["motor_insurance_policy.txt"]
+  },
+  {
+    "question": "Does the deductible amount remain the same for all vehicle categories?",
+    "relevant_sources": ["motor_insurance_policy.txt"]
+  },
+  {
+    "question": "Is vehicle damage while driving without a valid licence covered?",
+    "relevant_sources": ["motor_insurance_policy.txt"]
+  },
+  {
+    "question": "What happens before the insurer approves vehicle repairs?",
+    "relevant_sources": ["motor_insurance_policy.txt"]
+  },
+  {
+    "question": "Which documents are required for motor insurance claim processing?",
+    "relevant_sources": ["motor_insurance_policy.txt"]
+  },
+  {
+    "question": "Does motor insurance cover normal wear and tear?",
+    "relevant_sources": ["motor_insurance_policy.txt"]
+  },
+  {
+    "question": "What medical expenses are covered under travel insurance?",
+    "relevant_sources": ["travel_insurance_policy.txt"]
+  },
+  {
+    "question": "Under what circumstances can trip cancellation expenses be reimbursed?",
+    "relevant_sources": ["travel_insurance_policy.txt"]
+  },
+  {
+    "question": "Does travel insurance provide coverage for lost checked-in baggage?",
+    "relevant_sources": ["travel_insurance_policy.txt"]
+  },
+  {
+    "question": "What expenses may be reimbursed due to travel delays?",
+    "relevant_sources": ["travel_insurance_policy.txt"]
+  },
+  {
+    "question": "Are pre-existing medical conditions covered under travel insurance?",
+    "relevant_sources": ["travel_insurance_policy.txt"]
+  },
+  {
+    "question": "What documents are needed for a travel insurance claim?",
+    "relevant_sources": ["travel_insurance_policy.txt"]
+  },
+  {
+    "question": "Does travel insurance cover voluntary trip cancellations?",
+    "relevant_sources": ["travel_insurance_policy.txt"]
+  },
+  {
+    "question": "What should a traveller do when checked-in baggage is lost?",
+    "relevant_sources": ["travel_insurance_policy.txt"]
+  },
+  {
+    "question": "Can emergency medical expenses during international travel be reimbursed?",
+    "relevant_sources": ["travel_insurance_policy.txt"]
+  },
+  {
+    "question": "What proof is required to claim reimbursement for travel-related expenses?",
+    "relevant_sources": ["travel_insurance_policy.txt"]
+  }
+
+  ,
+  {
+    "question": "What is machine learning?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "How does machine learning relate to artificial intelligence?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What enables machine learning systems to learn patterns?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What is the primary purpose of machine learning?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "Define supervised learning.",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What type of examples are used in supervised learning?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What is the difference between classification and regression?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What does a classification model predict?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What does a regression model predict?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "Which machine learning task predicts continuous numerical values?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "Which machine learning task predicts discrete categories?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What is the difference between discrete and continuous predictions?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What is unsupervised learning?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "Does unsupervised learning require labeled data?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What is the main objective of unsupervised learning?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "How does unsupervised learning discover patterns?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What is K-means clustering?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "How does K-means group observations?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "On what basis does K-means form clusters?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "Which algorithm is used for clustering observations?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What is the role of similarity in K-means?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What does a clustering algorithm attempt to achieve?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What is overfitting in machine learning?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "Why does overfitting cause poor generalization?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What happens when a model learns training data too closely?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "How does overfitting affect performance on unseen data?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What is the relationship between overfitting and generalization?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What technique can help reduce overfitting?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "How does regularization help machine learning models?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "Why is regularization useful during model training?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "Compare supervised and unsupervised learning.",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "Which learning approach uses labeled examples and which discovers patterns in unlabeled data?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "Can classification and regression both be considered supervised learning tasks?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "What is the difference between clustering and classification?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "Is K-means a supervised or unsupervised learning algorithm?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "A model performs well on training data but poorly on new data. What problem might it have?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "If a dataset contains no labels and we want to group similar observations, which learning approach is appropriate?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "If the target variable represents house prices, should we use classification or regression?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "If the target variable represents categories such as spam and not spam, which task is appropriate?",
+    "relevant_sources": ["sample.txt"]
+  },
+  {
+    "question": "Summarize the main machine learning concepts discussed in the document.",
+    "relevant_sources": ["sample.txt"]
+  }
+
+]
